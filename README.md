@@ -1,4 +1,6 @@
 
+
+<div align="center">
 <img align='center' src='https://avatars3.githubusercontent.com/u/23230592?s=460&u=32103243be39fcd6febe3dadbfd53be23362f52b&v=4' width='200"'>
 
 ### Hi there 👋 I am Miguel Palacios 👨🏾‍
@@ -9,7 +11,6 @@
 - Passionate about technology💻
 - Holberton student @holbertonschool
 
-<div align="center">
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 <!-- display the social media buttons in your README -->
