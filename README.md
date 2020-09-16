@@ -5,12 +5,10 @@
 
 <h1> Hi there 👋 I am Miguel Palacios 👨🏾‍ </h1>
 
-<ul>
-  <li>Full-stack Software Engineer👨🏾‍💻</li>
-  <li>Free knowledge follower👨🏾‍🚀</li>
-  <li>Passionate about technology💻</li>
-  <li>Holberton student @holbertonschool</li>
-</ul>
+ <p>Full-stack Software Engineer👨🏾‍💻</p>
+ <p>Free knowledge follower👨🏾‍🚀</p>
+ <p>Passionate about technology💻</p>
+ <p>Holberton student @holbertonschool</p>
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
