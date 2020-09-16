@@ -3,13 +3,14 @@
 <div align="center">
 <img align='center' src='https://avatars3.githubusercontent.com/u/23230592?s=460&u=32103243be39fcd6febe3dadbfd53be23362f52b&v=4' width='200"'>
 
-### Hi there 👋 I am Miguel Palacios 👨🏾‍
+<h1> Hi there 👋 I am Miguel Palacios 👨🏾‍ </h1>
 
-
-- Full-stack Software Engineer👨🏾‍💻
-- free knowledge follower👨🏾‍🚀
-- Passionate about technology💻
-- Holberton student @holbertonschool
+<ul>
+  <li>Full-stack Software Engineer👨🏾‍💻</li>
+  <li>Free knowledge follower👨🏾‍🚀</li>
+  <li>Passionate about technology💻</li>
+  <li>Holberton student @holbertonschool</li>
+</ul>
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
