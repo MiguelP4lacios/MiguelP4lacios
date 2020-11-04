@@ -1,7 +1,6 @@
 
 
 <div align="center">
-<img align='center' src='https://avatars3.githubusercontent.com/u/23230592?s=460&u=32103243be39fcd6febe3dadbfd53be23362f52b&v=4' width='200"'>
 
 <h1> Hi there 👋 I am Miguel Palacios 👨🏾‍ </h1>
 
