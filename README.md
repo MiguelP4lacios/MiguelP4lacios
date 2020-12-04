@@ -1,7 +1,7 @@
 <div align="center" style = "font-family:courier,arial,helvética">
 <h1> Hi there <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" /> I am Miguel Palacios 👨🏾‍ </h1>
 <div align="left">
-<p>Full-stack Software Engineer👨🏾‍💻</p>
+<h3>Full-stack Software Engineer👨🏾‍💻</h2>
 <p>Free knowledge follower👨🏾‍🚀</p>
 <p>Passionate about technology💻</p>
 <p>Ambitious 🚀🔥</p>
