@@ -4,10 +4,11 @@
 
 <h1> Hi there 👋 I am Miguel Palacios 👨🏾‍ </h1>
 
+<div align="rigth">
  <p>Full-stack Software Engineer👨🏾‍💻</p>
  <p>Free knowledge follower👨🏾‍🚀</p>
  <p>Passionate about technology💻</p>
- <p>Holberton student @holbertonschool</p>
+</div>
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
