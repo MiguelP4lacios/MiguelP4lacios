@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style = "font-family:courier,arial,helvética">
 <h1> Hi there 👋 I am Miguel Palacios 👨🏾‍ </h1>
 
 <div align="left">
