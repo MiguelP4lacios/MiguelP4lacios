@@ -1,7 +1,5 @@
 <div align="center">
 <h1> Hi there 👋 I am Miguel Palacios 👨🏾‍ </h1>
-  
----
 
 <div align="left">
 <p>Full-stack Software Engineer👨🏾‍💻</p>
@@ -19,7 +17,6 @@
 
 </div>
 
----
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
