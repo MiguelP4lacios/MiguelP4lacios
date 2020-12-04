@@ -10,8 +10,8 @@
         <p>Disciplined 🥋</p>
         <p>Dicplomatic 🤝🏾</p>
     </div>
-    
-    <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+</div>
+<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
     
     <!-- display the social media buttons in your README -->
     
@@ -37,4 +37,3 @@
     [3]: https://github.com/MiguelP4lacios
     
     <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-</div>
