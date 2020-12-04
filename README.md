@@ -9,11 +9,17 @@
 <p>Adaptable 🤸‍♂️</p>
 <p>Disciplined 🥋</p>
 <p>Dicplomatic 🤝🏾</p>
+  
 ---
+
+_NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
+
 <img src=https://github-readme-stats.vercel.app/api?username=MiguelP4lacios&show_icons=true alt="Stats github" />
 <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelP4lacios&layout=compact alt="Stats github" />
 </div>
+
 ---
+
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 <!-- display the social media buttons in your README -->
