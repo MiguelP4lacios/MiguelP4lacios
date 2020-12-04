@@ -2,12 +2,12 @@
 <h1> Hi there <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" /> I am Miguel Palacios 👨🏾‍ </h1>
 <div align="left">
 <h3>Full-stack Software Engineer👨🏾‍💻</h2>
-<p>Free knowledge follower👨🏾‍🚀</p>
-<p>Passionate about technology💻</p>
-<p>Ambitious 🚀🔥</p>
-<p>Adaptable 🤸‍♂️</p>
-<p>Disciplined 🥋</p>
-<p>Dicplomatic 🤝🏾</p>
+<h3>Free knowledge follower👨🏾‍🚀</h3>
+<h3>Passionate about technology💻</h3>
+<h3>Ambitious 🚀🔥</h3>
+<h3>Adaptable 🤸‍♂️</h3>
+<h3>Disciplined 🥋</h3>
+<h3>Dicplomatic 🤝🏾</h3>
   
 ---
 
