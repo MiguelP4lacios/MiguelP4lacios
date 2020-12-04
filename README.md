@@ -15,7 +15,7 @@
 
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
-[![alt text][6.1]][6]
+[![alt text][3.1]][3]
 
 
 <!-- links to social media icons -->
@@ -25,14 +25,14 @@
 
 [1.1]: https://imgur.com/Q05ZVFO.png (twitter icon with padding)
 [2.1]: https://imgur.com/9plherK.png (linkedin icon with padding)
-[6.1]: https://imgur.com/U4AVlLL.png (github icon with padding)
+[3.1]: https://imgur.com/U4AVlLL.png (github icon with padding)
 
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
 
 [1]: https://twitter.com/MiguelP4lacios
 [2]: https://www.linkedin.com/in/miguel-palacios-127756b2/
-[6]: https://github.com/MiguelP4lacios
+[3]: https://github.com/MiguelP4lacios
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 </div>
