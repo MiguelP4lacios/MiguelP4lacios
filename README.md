@@ -4,7 +4,7 @@
 
 <h1> Hi there 👋 I am Miguel Palacios 👨🏾‍ </h1>
 
-<div align="rigth">
+<div align="right">
  <p>Full-stack Software Engineer👨🏾‍💻</p>
  <p>Free knowledge follower👨🏾‍🚀</p>
  <p>Passionate about technology💻</p>
