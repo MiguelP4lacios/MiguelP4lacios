@@ -1,5 +1,5 @@
 <div align="center" style = "font-family:courier,arial,helvética">
-<h1> Hi there 👋 I am Miguel Palacios 👨🏾‍ </h1>
+<h1> Hi there <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" /> I am Miguel Palacios 👨🏾‍ </h1>
 <div align="left">
 <p>Full-stack Software Engineer👨🏾‍💻</p>
 <p>Free knowledge follower👨🏾‍🚀</p>
