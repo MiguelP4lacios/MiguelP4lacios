@@ -15,8 +15,8 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 
 <a href="https://github-readme-stats.vercel.app/api?username=miguelP4lacios&show_icons=true&theme=radical">
 <img align="center" alt="Miguel Palacios's Github Stats" src="https://github-readme-stats.vercel.app/api?username=miguelP4lacios&show_icons=true&theme=radical" /></a>
-<a href="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=MiguelP4lacios&layout=compact&theme=radical">
-  <img align="center" src="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=MiguelP4lacios&layout=compact&theme=radical" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelP4lacios&layout=compact&theme=radical">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelP4lacios&layout=compact&theme=radical" />
 </a>
 
 
