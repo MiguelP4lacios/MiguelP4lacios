@@ -47,12 +47,16 @@ I'm a **Software Engineer** with experience building scalable applications and A
 ![LLMs](https://img.shields.io/badge/-LLMs-412991?style=flat-square&logo=openai&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/-Claude_Code-191919?style=flat-square&logo=anthropic&logoColor=white)
 ![AI Agents](https://img.shields.io/badge/-AI_Agents-FF6B6B?style=flat-square&logo=robot&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-191919?style=flat-square&logo=anthropic&logoColor=white)
 
 **Development Tools**  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Zsh](https://img.shields.io/badge/-Zsh-F15A24?style=flat-square&logo=zsh&logoColor=white)
+![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
 
 ## 📫 Let's Connect
 
